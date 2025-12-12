@@ -1,14 +1,26 @@
 # 📊 ABC CompanyEmployee Data Analysis Project
 A Comprehensive Data Analytics & Visualization Project
 
-
-
-## Project Overview
+## 📘 Project Overview
 This project provides a comprehensive analysis of employee data from ABC Company.  
-The dataset contains **458 rows and 9 columns**, detailing employee demographics, positions, teams, salaries, and other attributes.  
+The dataset contains **458 rows and 9 columns**.
+The company required a detailed, data-driven report to understand employee demographics, team distribution, salary expenditure, and workforce traits.
 
 **Objective:**  
-Preprocess the dataset, perform analyses, generate visualizations, and extract actionable insights for workforce planning, salary management, and HR decisions.
+
+The project includes:
+
+🔹 Data Preprocessing
+
+🔹 Exploratory Data Analysis (EDA)
+
+🔹 Five business-driven analytical tasks
+
+🔹 Graphical visualizations
+
+🔹 Insights & data story
+
+🔹 Clean, reproducible Jupyter Notebook
 
 ---
 
@@ -164,19 +176,7 @@ The insights can guide workforce planning, budgeting, and HR policy decisions.
 
 
 
-The project includes:
 
-🔹 Data Preprocessing
-
-🔹 Exploratory Data Analysis (EDA)
-
-🔹 Five business-driven analytical tasks
-
-🔹 Graphical visualizations
-
-🔹 Insights & data story
-
-🔹 Clean, reproducible Jupyter Notebook
 
 📂 Dataset Details
 
