@@ -127,6 +127,8 @@ All graphs follow a consistent **theme, color palette, and labeling**.
 ## 📁 Repository Structure
 
 ABC-Company-Employee-Analysis/
+
+
 ├── 📄 ABC Company.xlsx # Dataset
 ├── 📄 Python Module End Assessment 2.ipynb # Final notebook
 ├── 📄 README.md # Project documentation
