@@ -28,17 +28,18 @@ The project includes:
 
 The dataset (ABC Company.xlsx) contains the following columns:
 
-Column Name	Description
-empid	Employee ID
-age	Age of the employee
-gender	Gender
-height	Height (corrected during preprocessing)
-weight	Weight
-team	Team or department
-position	Job position
-salary	Monthly salary
-experience	Professional experience in years
-🧹 1. Data Preprocessing
+| Column Name | Description                             |
+| ----------- | --------------------------------------- |
+| empid       | Employee ID                             |
+| age         | Age of the employee                     |
+| gender      | Gender                                  |
+| height      | Height (corrected during preprocessing) |
+| weight      | Weight                                  |
+| team        | Team or department                      |
+| position    | Job position                            |
+| salary      | Monthly salary                          |
+| experience  | Professional experience in years        |
+
 
 ## 📂 Dataset Description
 - **Rows:** 458  
