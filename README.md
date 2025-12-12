@@ -6,20 +6,20 @@ A **Comprehensive Data Analytics & Visualization Project**
 
 ## 📘 Project Overview
 
-This project provides a comprehensive analysis of employee data from **ABC Company**.  
-The dataset contains **458 rows and 9 columns**.  
-The company required a detailed, data-driven report to understand employee demographics, team distribution, salary expenditure, and workforce traits.
+- This project provides a comprehensive analysis of employee data from **ABC Company**.  
+- The dataset contains **458 rows and 9 columns**.  
+- The company required a detailed, data-driven report to understand employee demographics, team distribution, salary expenditure, and workforce traits.
 
 **Objective:**  
 
 The project includes:
 
-- 🔹 Data Preprocessing  
-- 🔹 Exploratory Data Analysis (EDA)  
-- 🔹 Five business-driven analytical tasks  
-- 🔹 Graphical visualizations  
-- 🔹 Insights & data story  
-- 🔹 Clean, reproducible Jupyter Notebook  
+ 🔹 Data Preprocessing  
+ 🔹 Exploratory Data Analysis (EDA)  
+ 🔹 Five business-driven analytical tasks  
+ 🔹 Graphical visualizations  
+ 🔹 Insights & data story  
+ 🔹 Clean, reproducible Jupyter Notebook  
 
 ---
 
@@ -43,13 +43,13 @@ The project includes:
 
 **Key preprocessing steps performed:**
 
-- ✔ **Ensured dataset cleanliness** for accurate analysis: Verified all data was consistent, error-free, and properly structured.  
-- ✔ **Standardized inconsistent values:** Converted all column names to lowercase and replaced spaces with underscores.  
-- ✔ **Missing Value Handling:**  
+ ✔ **Ensured dataset cleanliness** for accurate analysis: Verified all data was consistent, error-free, and properly structured.  
+ ✔ **Standardized inconsistent values:** Converted all column names to lowercase and replaced spaces with underscores.  
+ ✔ **Missing Value Handling:**  
   - Numeric columns: Filled with median values  
   - Categorical columns: Filled with mode or `"Unknown"` where necessary  
-- ✔ **Duplicate Removal:** Identified and removed duplicate rows  
-- ✔ **Height Column Correction:** Replaced height column with random integers between **150–180 cm** for consistency  
+ ✔ **Duplicate Removal:** Identified and removed duplicate rows  
+ ✔ **Height Column Correction:** Replaced height column with random integers between **150–180 cm** for consistency  
 
 ---
 
@@ -127,13 +127,12 @@ All graphs follow a consistent **theme, color palette, and labeling**.
 ## 📁 Repository Structure
 
 ABC-Company-Employee-Analysis/
-│
-├── ABC Company.xlsx                        # Dataset
-├── Python Module End Assessment 2.ipynb     # Final notebook
-├── README.md                               # Project documentation
+├── ABC Company.xlsx # Dataset
+├── Python Module End Assessment 2.ipynb # Final notebook
+├── README.md # Project documentation
 └── assets/
-      ├── plots/                            # Visualizations (optional)
-      └── images/                           # Banner or project images
+├── plots/ # Visualizations (optional)
+└── images/ # Banner or project images
 
 
 ---
