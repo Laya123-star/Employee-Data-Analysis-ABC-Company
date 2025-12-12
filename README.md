@@ -51,12 +51,7 @@ The dataset (ABC Company.xlsx) contains the following columns:
 
 Key preprocessing steps performed:
 
- 
- Removed duplicate records
- 
-✔ Replaced incorrect height values with random values between 150–180 cm
-✔ Converted columns to appropriate data types
-✔ Ensured dataset cleanliness for accurate analysis
+ Ensured dataset cleanliness for accurate analysis
 
 ✔. **Standardized inconsistent values:**  
    - Converted all column names to lowercase and replaced spaces with underscores for consistency.  
@@ -68,8 +63,10 @@ Key preprocessing steps performed:
 ✔. **Duplicate Removal:**  
    - Identified and removed duplicate rows to maintain data integrity.  
 
-4. **Height Column Correction:**  
+✔. **Height Column Correction:**  
    - Replaced `height` column with random integers between **150–180 cm** for consistency.  
+✔. **Height Column Correction:**
+   - Verified that all data was consistent, error-free, and properly structured so that analysis results remained reliable and meaningful.
 
 ---
 
