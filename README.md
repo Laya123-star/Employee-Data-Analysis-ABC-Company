@@ -14,12 +14,12 @@ A **Comprehensive Data Analytics & Visualization Project**
 
 The project includes:
 
- 🔹 Data Preprocessing  
- 🔹 Exploratory Data Analysis (EDA)  
- 🔹 Five business-driven analytical tasks  
- 🔹 Graphical visualizations  
- 🔹 Insights & data story  
- 🔹 Clean, reproducible Jupyter Notebook  
+ 🔹 Data Preprocessing.
+ 🔹 Exploratory Data Analysis (EDA).
+ 🔹 Five business-driven analytical tasks.
+ 🔹 Graphical visualizations.
+ 🔹 Insights & data story.
+ 🔹 Clean, reproducible Google collab.
 
 ---
 
