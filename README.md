@@ -110,8 +110,7 @@ All graphs follow a consistent **theme, color palette, and labeling**.
 
 ## 🧠 Data Story – Key Insights
 
-- ✔ Majority of employees belong to the **25–35 age group**, indicating a young workforce.  
-- ✔ The **Engineering team** accounts for the highest salary expenditure.  
+- ✔ Majority of employees belong to the **25–35 age group**, indicating a young workforce.
 - ✔ A **mild positive correlation** exists between age and salary.  
 - ✔ **Senior-level positions** significantly increase overall salary costs.  
 
