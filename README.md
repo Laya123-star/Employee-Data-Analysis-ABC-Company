@@ -43,16 +43,17 @@ The dataset (ABC Company.xlsx) contains the following columns:
 | salary      | Monthly salary                          |
 | experience  | Professional experience in years        |
 
-
-  
-  - `team` – Employee's team assignment  
-  - `position` – Employee's job role  
-  - `age` – Employee age  
-  - `salary` – Employee salary  
-  - `height` – Employee height (corrected during preprocessing)  
-
 ---
+🧹 1. Data Preprocessing
 
+Key preprocessing steps performed:
+
+✔ Standardized inconsistent values
+✔ Removed duplicate records
+✔ Treated missing values
+✔ Replaced incorrect height values with random values between 150–180 cm
+✔ Converted columns to appropriate data types
+✔ Ensured dataset cleanliness for accurate analysis
 ## Preprocessing Steps
 1. **Column Standardization:**  
    - Converted all column names to lowercase and replaced spaces with underscores for consistency.  
