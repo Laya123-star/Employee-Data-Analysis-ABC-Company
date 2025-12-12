@@ -1,6 +1,6 @@
 # 📊 ABC Company Employee Data Analysis Project
 
-A **Comprehensive Data Analytics & Visualization Project**  
+A **Comprehensive Data Analytics & Visualization Project**.
 
 ---
 
@@ -10,7 +10,7 @@ A **Comprehensive Data Analytics & Visualization Project**
 - The dataset contains **458 rows and 9 columns**.  
 - The company required a detailed, data-driven report to understand employee demographics, team distribution, salary expenditure, and workforce traits.
 
-**Objective:**  
+**🎯 Objective:**  
 
 The project includes:
 
@@ -51,39 +51,40 @@ The project includes:
  ✔ **Ensured dataset cleanliness** for accurate analysis: Verified all data was consistent, error-free, and properly structured.  
  ✔ **Standardized inconsistent values:** Converted all column names to lowercase and replaced spaces with underscores.  
  ✔ **Missing Value Handling:**  
-  - Numeric columns: Filled with median values  
-  - Categorical columns: Filled with mode or `"Unknown"` where necessary  
- ✔ **Duplicate Removal:** Identified and removed duplicate rows  
- ✔ **Height Column Correction:** Replaced height column with random integers between **150–180 cm** for consistency  
-
+    - Numeric columns: Filled with median values.
+   - Categorical columns: Filled with mode or `"Unknown"` where necessary.  
+ ✔ **Duplicate Removal:**
+      - Identified and removed duplicate rows.
+ ✔ **Height Column Correction:**   
+       - Replaced height column with random integers between **150–180 cm** for consistency.
 ---
 
 ## 📈 Analysis Tasks
 
 ### 🔍 Task 1: Team Distribution
-- Counted employees per team  
-- Calculated percentage split  
-- Identified the largest team  
-- Visualized using **bar chart** and **pie chart**  
+- Counted employees per team.
+- Calculated percentage split.  
+- Identified the largest team.  
+- Visualized using **bar chart** and **pie chart**.  
 
 ### 🧑‍💼 Task 2: Employee Position Segregation
-- Grouped employees by job role  
-- Calculated percentage split  
-- Highlighted the most common roles  
-- Visualized using **count plot**  
+- Grouped employees by job role.  
+- Calculated percentage split.  
+- Highlighted the most common roles.  
+- Visualized using **count plot**.  
 
 ### 🎂 Task 3: Predominant Age Group
-- Created age bins  
-- Counted occurrences  
-- Visualized using **bar chart**  
+- Created age bins.  
+- Counted occurrences.  
+- Visualized using **bar chart**.  
 
 ### 💰 Task 4: Salary Expenditure Analysis
-- Calculated total salary spent per team and per position  
-- Visualized using **bar charts**  
+- Calculated total salary spent per team and per position.  
+- Visualized using **bar charts**.  
 
 ### 📉 Task 5: Age–Salary Correlation
-- Calculated correlation coefficient between age and salary  
-- Visualized using **scatter plot** with team and position markers  
+- Calculated correlation coefficient between age and salary.  
+- Visualized using **scatter plot** with team and position markers.  
 
 ---
 
@@ -110,10 +111,10 @@ All graphs follow a consistent **theme, color palette, and labeling**.
 
 **Business Applications:**
 
-- Workforce planning  
-- Budget allocation  
-- Recruitment strategies  
-- Organizational decision-making  
+- Workforce planning.  
+- Budget allocation.  
+- Recruitment strategies.  
+- Organizational decision-making.  
 
 ---
 
@@ -144,7 +145,7 @@ ABC-Company-Employee-Analysis/
 
 ## 🚀 How to Use
 
-1. Download the dataset  
-2. Open the notebook in **Google Colab**  
-3. Run all cells to generate analyses, visualizations, and insights automatically
+1. Download the dataset.  
+2. Open the notebook in **Google Colab**.  
+3. Run all cells to generate analyses, visualizations, and insights automatically.
 
