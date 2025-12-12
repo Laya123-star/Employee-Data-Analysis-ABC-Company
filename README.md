@@ -1,13 +1,5 @@
 # 📊 ABC Company Employee Data Analysis Project
 
-![Project Banner](assets/images/banner.png)  
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1.5.3-lightblue?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-1.26-orange?logo=numpy)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)
-![Dataset](https://img.shields.io/badge/Dataset-458%20rows%209%20columns-green)
-
 A **Comprehensive Data Analytics & Visualization Project**  
 
 ---
@@ -51,82 +43,42 @@ The project includes:
 
 **Key preprocessing steps performed:**
 
-- ✔ **Ensured dataset cleanliness** for accurate analysis  
-- ✔ **Standardized inconsistent values** (column names to lowercase, replaced spaces with underscores)  
+- ✔ **Ensured dataset cleanliness** for accurate analysis: Verified all data was consistent, error-free, and properly structured.  
+- ✔ **Standardized inconsistent values:** Converted all column names to lowercase and replaced spaces with underscores.  
 - ✔ **Missing Value Handling:**  
-  - Numeric columns → filled with median values  
-  - Categorical columns → filled with mode or `"Unknown"`  
-- ✔ **Duplicate Removal**  
-- ✔ **Height Column Correction:** replaced height with random integers between **150–180 cm**  
+  - Numeric columns: Filled with median values  
+  - Categorical columns: Filled with mode or `"Unknown"` where necessary  
+- ✔ **Duplicate Removal:** Identified and removed duplicate rows  
+- ✔ **Height Column Correction:** Replaced height column with random integers between **150–180 cm** for consistency  
 
 ---
 
 ## 📈 Analysis Tasks
 
-<details>
-<summary>🔍 Task 1: Team Distribution</summary>
-
+### 🔍 Task 1: Team Distribution
 - Counted employees per team  
 - Calculated percentage split  
 - Identified the largest team  
 - Visualized using **bar chart** and **pie chart**  
 
-**Example Plot:**
-
-![Team Distribution](assets/plots/team_distribution.png)
-
-</details>
-
-<details>
-<summary>🧑‍💼 Task 2: Employee Position Segregation</summary>
-
+### 🧑‍💼 Task 2: Employee Position Segregation
 - Grouped employees by job role  
 - Calculated percentage split  
 - Highlighted the most common roles  
 - Visualized using **count plot**  
 
-**Example Plot:**
-
-![Position Distribution](assets/plots/position_distribution.png)
-
-</details>
-
-<details>
-<summary>🎂 Task 3: Predominant Age Group</summary>
-
+### 🎂 Task 3: Predominant Age Group
 - Created age bins  
 - Counted occurrences  
 - Visualized using **bar chart**  
 
-**Example Plot:**
-
-![Age Group Analysis](assets/plots/age_group_analysis.png)
-
-</details>
-
-<details>
-<summary>💰 Task 4: Salary Expenditure Analysis</summary>
-
+### 💰 Task 4: Salary Expenditure Analysis
 - Calculated total salary spent per team and per position  
 - Visualized using **bar charts**  
 
-**Example Plot:**
-
-![Salary Expenditure](assets/plots/salary_expenditure.png)
-
-</details>
-
-<details>
-<summary>📉 Task 5: Age–Salary Correlation</summary>
-
+### 📉 Task 5: Age–Salary Correlation
 - Calculated correlation coefficient between age and salary  
 - Visualized using **scatter plot** with team and position markers  
-
-**Example Plot:**
-
-![Age vs Salary](assets/plots/age_salary_correlation.png)
-
-</details>
 
 ---
 
@@ -140,14 +92,16 @@ The project includes:
 | Salary Expenditure         | Bar charts by team & position                     |
 | Age–Salary Relationship    | Scatter plot with team & position markers        |
 
+All graphs follow a consistent **theme, color palette, and labeling**.
+
 ---
 
 ## 🧠 Data Story – Key Insights
 
-- ✔ Majority of employees belong to the **25–35 age group**, indicating a young workforce  
-- ✔ The **Engineering team** accounts for the highest salary expenditure  
-- ✔ A **mild positive correlation** exists between age and salary  
-- ✔ **Senior-level positions** significantly increase overall salary costs  
+- ✔ Majority of employees belong to the **25–35 age group**, indicating a young workforce.  
+- ✔ The **Engineering team** accounts for the highest salary expenditure.  
+- ✔ A **mild positive correlation** exists between age and salary.  
+- ✔ **Senior-level positions** significantly increase overall salary costs.  
 
 **Business Applications:**
 
@@ -171,4 +125,22 @@ The project includes:
 ---
 
 ## 📁 Repository Structure
+
+ABC-Company-Employee-Analysis/
+│
+├── ABC Company.xlsx                        # Dataset
+├── Python Module End Assessment 2.ipynb     # Final notebook
+├── README.md                               # Project documentation
+└── assets/
+      ├── plots/                            # Visualizations (optional)
+      └── images/                           # Banner or project images
+
+
+---
+
+## 🚀 How to Use
+
+1. Download the dataset  
+2. Open the notebook in **Google Colab**  
+3. Run all cells to generate analyses, visualizations, and insights automatically
 
