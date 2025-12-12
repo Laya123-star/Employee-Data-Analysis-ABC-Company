@@ -48,17 +48,23 @@ The project includes:
 
 **Key preprocessing steps performed:**
 
- ✔ **Ensured dataset cleanliness** for accurate analysis: Verified all data was consistent, error-free, and properly structured.  
- ✔ **Standardized inconsistent values:** Converted all column names to lowercase and replaced spaces with underscores.  
- ✔ **Missing Value Handling:**  
-    - Numeric columns: Filled with median values.
-   - Categorical columns: Filled with mode or `"Unknown"` where necessary.  
- ✔ **Duplicate Removal:**
-      - Identified and removed duplicate rows.
- ✔ **Height Column Correction:**   
-       - Replaced height column with random integers between **150–180 cm** for consistency.
----
+✔ **Ensured dataset cleanliness for accurate analysis:**  
+Verified that all data was consistent, error-free, and properly structured.
 
+✔ **Standardized column names:**  
+Converted all column names to lowercase and replaced spaces with underscores.
+
+✔ **Missing Value Handling:**  
+- **Numeric columns:** Filled using median values.  
+- **Categorical columns:** Filled using mode or `"Unknown"` where appropriate.
+
+✔ **Duplicate Removal:**  
+Identified and removed duplicate rows from the dataset.
+
+✔ **Height Column Correction:**  
+Replaced the `height` column with random integers between **150–180 cm** to maintain consistency.
+
+---
 ## 📈 Analysis Tasks
 
 ### 🔍 Task 1: Team Distribution
