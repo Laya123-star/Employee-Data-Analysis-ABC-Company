@@ -86,7 +86,7 @@ Replaced the `height` column with random integers between **150–180 cm** to ma
 
 ### 💰 Task 4: Salary Expenditure Analysis
 - Calculated total salary spent per team and per position.  
-- Visualized using **bar charts**.  
+- Visualized using **Grouped bar charts**.  
 
 ### 📉 Task 5: Age–Salary Correlation
 - Calculated correlation coefficient between age and salary.  
