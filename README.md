@@ -24,7 +24,10 @@ The project includes:
 
 ---
 
- Dataset Details
+ ## 📂 Dataset Description
+- **Rows:** 458  
+- **Columns:** 9  
+- **Key Columns:**
 
 The dataset (ABC Company.xlsx) contains the following columns:
 
@@ -41,10 +44,7 @@ The dataset (ABC Company.xlsx) contains the following columns:
 | experience  | Professional experience in years        |
 
 
-## 📂 Dataset Description
-- **Rows:** 458  
-- **Columns:** 9  
-- **Key Columns:**  
+  
   - `team` – Employee's team assignment  
   - `position` – Employee's job role  
   - `age` – Employee age  
