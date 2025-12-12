@@ -22,9 +22,25 @@ The project includes:
 
 🔹 Clean, reproducible Jupyter Notebook
 
+---
 
+ Dataset Details
 
-## Dataset Description
+The dataset (ABC Company.xlsx) contains the following columns:
+
+Column Name	Description
+empid	Employee ID
+age	Age of the employee
+gender	Gender
+height	Height (corrected during preprocessing)
+weight	Weight
+team	Team or department
+position	Job position
+salary	Monthly salary
+experience	Professional experience in years
+🧹 1. Data Preprocessing
+
+## 📂 Dataset Description
 - **Rows:** 458  
 - **Columns:** 9  
 - **Key Columns:**  
@@ -178,21 +194,7 @@ The insights can guide workforce planning, budgeting, and HR policy decisions.
 
 
 
-📂 Dataset Details
 
-The dataset (ABC Company.xlsx) contains the following columns:
-
-Column Name	Description
-empid	Employee ID
-age	Age of the employee
-gender	Gender
-height	Height (corrected during preprocessing)
-weight	Weight
-team	Team or department
-position	Job position
-salary	Monthly salary
-experience	Professional experience in years
-🧹 1. Data Preprocessing
 
 Key preprocessing steps performed:
 
