@@ -171,6 +171,21 @@ This analysis helps organizations to:
 * Support data-driven decision-making
 
 ---
+# ⚠️ Limitations
+
+- The dataset is relatively small (458 records), which may limit the depth of insights.
+
+- Data is static and does not reflect real-time workforce changes.
+
+- Some values (e.g., height) were artificially adjusted, which may affect analysis accuracy.
+
+- Limited features; important factors like performance ratings, department budgets, or education level are not included.
+
+- Correlation analysis does not imply causation between variables (e.g., age and salary).
+
+- Results may not generalize to other organizations with different workforce structures.
+
+- Visualization-based insights are descriptive and do not include predictive modeling.
 
 # 🛠 Tech Stack
 
