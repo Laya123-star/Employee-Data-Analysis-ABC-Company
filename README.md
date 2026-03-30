@@ -233,6 +233,9 @@ Explore visualizations and insights
 
 This repository was created as part of a **Python Module End Assessment** in a **Data Analytics program** to demonstrate data preprocessing, exploratory data analysis (EDA), visualization techniques, and deriving business insights from employee data.
 
+---
+
+
 # 👤 Author
 
 **Name:** Laya Mary Joy
